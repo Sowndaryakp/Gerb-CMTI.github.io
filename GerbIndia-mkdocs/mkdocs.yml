@@ -1,0 +1,10 @@
+site_name: Gerb documentation
+theme:
+  name: cinder
+
+nav:
+  - Home: index.md
+  - Backend services: backend.md
+  - Frontend services: frontend.md
+  - User Interface: ui.md
+
